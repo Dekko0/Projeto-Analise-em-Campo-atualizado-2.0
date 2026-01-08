@@ -1,0 +1,10 @@
+# Streamlit secrets (NUNCA SUBIR)
+.streamlit/secrets.toml
+
+# Arquivos de dados locais (opcional, se quiser que cada um tenha seu banco)
+*.json
+*.xlsx
+
+# Python cache
+__pycache__/
+*.py[cod]
